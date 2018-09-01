@@ -1,0 +1,33 @@
+body,html{padding: 0;margin:0;}
+h1{
+	font-size: 50px;
+	color: red;
+}
+
+
+p{
+	
+	font-variant-caps: 12px;
+	text-align: center;
+	margin-left: 250px;
+	font-size: 20px;
+	font-family: cursive;
+	margin-top: 75px;
+	text-shadow:2PX 2PX 20PX rgba(121, 85, 72, 0.51);
+	color:rgb(76, 45, 34);
+}
+table{
+
+	
+}
+button{
+	outline: none;
+	border-radius: 50%;
+	box-sizing: 10px;
+	cursor: pointer;
+	font-size: 20px;
+	font-family: cursive;
+	margin-left: 250px; 
+}
+	
+}
